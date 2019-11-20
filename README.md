@@ -1,2 +1,2 @@
 # poo-unibratec
-Projeto da disciplina de POO
+Projeto da disciplina de POO utilizando MAVEN
